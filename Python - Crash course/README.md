@@ -1,1 +1,1 @@
-### $\color{blue}{\textbf{Este es un jupyter notebook con las nociones elemetales del manejo de librarias de Python.}}$
+### En este jupyter notebook encontarrás las nociones básicas del manejo de librerias de Python.
