@@ -10,7 +10,7 @@ Para poder abrir y editar uno de los *Jupyter Notebooks* de nuestro repositorio 
 
 <ol>
 <li>Instala Anaconda Navigator siguiendo el tutorial</li>
-<li>Descarga el folder completo de materiales tu computadora usando el icono verde `Clone or download` </li>
+<li>Descarga el folder completo de materiales tu computadora usando el icono verde <b>Clone or download</b> </li>
 <li>Abre Anaconda y ejecuta un *Jupyter Notebook*. Se abrirá un navegador y se desplegará un directorio</li>
 <li>Desde este directorio, busca el folder del Notebook de interés y abre el archivo de extensión `ipynb`. </li>
 </ol>
