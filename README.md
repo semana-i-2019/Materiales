@@ -6,9 +6,16 @@ En este repositorio encontrarás todos los materiales que usaremos en nuestra se
 
 ## Jupyter Notebooks
 
-Para poder abrir y editar uno de los *Jupyter Notebooks* de nuestro repositorio (e.g., `Python Crash Course`, `DNA Example`, `NFL Example`,...), 
+Para poder abrir y editar uno de los *Jupyter Notebooks* de nuestro repositorio (e.g., `Python Crash Course`, `DNA Example`, `NFL Example`,...) haz lo siguiente:
 
-* debes descargar (todo) el folder respectivo a tu computadora,
+<ol>
+<li>Instala Anaconda Navigator siguiendo el tutorial</li>
+<li>Descarga el folder completo de materiales tu computadora usando el icono verde `Clone or download`</li>
+<li>text</li>
+<li>text</li>
+</ol>
+
+* debes ,
 
 instalar Anaconda (sigue el tutorial). 
 
