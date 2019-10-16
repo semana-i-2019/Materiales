@@ -1,5 +1,7 @@
 # Anuncios
 
+## ¡Bienvenid@! (en edición...)
+
 ## Materiales
 
 En este repositorio encontrarás todos los materiales que usaremos en nuestra semana i. Explora los contenidos de los folders.
