@@ -1,10 +1,16 @@
-# $\color{blue}{\textbf{Anuncios}}$
+# Anuncios
 
 ## Materiales
 
-En este repositorio encontrarás todos los materiales que usaremos en nuestra semana i. 
+En este repositorio encontrarás todos los materiales que usaremos en nuestra semana i. Explora los contenidos de los folders.
 
-Lo primero que debes hacer es instalar Anaconda (sigue el tutorial). 
+## Jupyter Notebooks
+
+Para poder abrir y editar uno de los *Jupyter Notebooks* de nuestro repositorio (e.g., `Python Crash Course`, `DNA Example`, `NFL Example`,...), 
+
+* debes descargar (todo) el folder respectivo a tu computadora,
+
+instalar Anaconda (sigue el tutorial). 
 
 Para poder abrir y editar uno de los *Jupyter Notebooks* del repositorio (`Python Crash Course`, `DNA Example`, `NFL Example`,...), debes descargar (todo) el folder respectivo a tu computadora, después abre Anaconda y ejecuta un *Jupyter Notebook*. Se abrirá un navegador y verás un directorio desde el cual debes buscar el folder que descargaste para finalmente abrir el archivo de extensión `ipynb`. 
 
