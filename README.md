@@ -1,6 +1,6 @@
 # Anuncios
 
-## ¡Bienvenid@! (en edición...)
+## ¡Bienvenidos!
 
 ## Materiales
 
